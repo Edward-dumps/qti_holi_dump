@@ -1,0 +1,27 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.VT.5.4.2-00398-MANNAR-1", 
+        "apps": "LA.UM.9.16.r1-12900-MANNAR.QSSI13.0-1", 
+        "apps_qssi11": "LA.QSSI.11.0.r1-18200-qssi.0-1", 
+        "apps_qssi13": "LA.QSSI.13.0.r1-09100-qssi.0-1", 
+        "boot": "BOOT.XF.4.2-00281-MANNARLAZ-1", 
+        "btfm": "BTFM.CHE.3.2.1-00269-QCACHROMZ-2", 
+        "btfm_CHK": "BTFM.CHE.2.1.5-00292-QCACHROMZ-2", 
+        "cdsp": "CDSP.VT.2.4.2-00315-MANNAR-3", 
+        "common": "Mannar.LA.2.0.1-00026.02-STD.PROD-1", 
+        "glue": "GLUE.MANNAR_LA.2.0.1-00300-NOOP_TEST-1", 
+        "modem": "MPSS.HI.4.3.1.c6-00013-MANNAR_GEN_PACK-1", 
+        "rpm": "RPM.BF.1.11-00134-MANNARAAAAANAZR-1", 
+        "tz": "TZ.XF.5.1-01142-MANNARAAAAANAZT-1", 
+        "tz_apps": "TZ.APPS.2.0-00249-MANNARAAAAANAZT-1", 
+        "video": "VIDEO.VE.6.0-00050-PROD-1", 
+        "wapi": "WLAN_ADDON.HL.1.0-00074-CNSS_RMZ_WAPI-1", 
+        "wlan": "WLAN.HL.3.3.2-00481-QCAHLSWMTPLZ-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Mannar.LA.2.0.1-00026.02-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2023-02-23 01:59:37"
+    }, 
+    "Version": "1.0"
+}
